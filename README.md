@@ -1,10 +1,12 @@
 # Procrasti8x8
-MC 8x8 texture pack. Probably will be extended to modded 1.15.
+Hello! This is the Procrasti8x8 Texture Pack! This is in **early development**, so not all versions of Minecarft are supported. You can check them out, but on a **few conditions**.
 
-If you're interested, hmu @Hungie#9172 on Discord to actively contribute to the resource pack
+ - This Pack can be used for personal use
+   - You have full control on what you can do with this pack **only when used personally**
+ - Distribution right now is not allowed
+ - Contribution is granted by [@ProcrastinationNation](https://github.com/ProcrastinationNation)
+   - Recomended way(s) of contact: [@Hungie#9172](https://app.discord.com) on discord
 
-YOU CAN use the textures in your own game
+Intrested in helping? Contact [@Hungie#9172](https://app.discord.com) on discord, or pull merge request and we will accpet/deny it when needed :)
 
-YOU CAN share the pack and credit us
-
-YOU CANNOT share the pack not credit us
+\- [ProcrastinationNation](https://github.com/ProcrastinationNation/), [CoolAbhi1290](http://coolabhi1290.epizy.com/), & [Namakudami](https://github.com/Namakudami)

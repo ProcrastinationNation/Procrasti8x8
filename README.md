@@ -10,5 +10,3 @@ Hello! This is the Procrasti8x8 Texture Pack! This is in **early development**, 
 Intrested in helping? Contact [@Hungie#9172](https://app.discord.com) on discord, or pull merge request and we will accpet/deny it when needed :)
 
 \- [ProcrastinationNation](https://github.com/ProcrastinationNation/), [CoolAbhi1290](http://coolabhi1290.epizy.com/), [Namakudami](https://github.com/Namakudami), [ancestrialchindinner](), [Enderot_Gaming](https://github.com/Enderot-Gaming), [filiprb]() & [letmeknow]()
-
-Changes that I made

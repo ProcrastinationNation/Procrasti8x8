@@ -1,8 +1,26 @@
-§3I see the player you mean.
+§2Wait, did you hear that?
 
-§2PLAYERNAME?
+§3What is it?
 
-§3Yes. Take care. It has reached a higher level now. It can read our thoughts.
+§2I think I just heard something die!
+
+§3Like what?
+
+§2It's the ender dragon! But it looks diffrent...
+
+§3What do you mean?
+
+§2The player might have used a texture pack.
+
+§3Are you talking about PLAYERNAME?
+
+§2Yeah.
+
+§3What texture pack did PLAYERNAME use?
+
+§2I think it was... I think it was Procrasti8x8.
+
+§3Oh cool! But take care. It has reached a higher level now. It can read our thoughts.
 
 §2That doesn't matter. It thinks we are part of the game.
 

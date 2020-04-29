@@ -10,5 +10,3 @@ Hello! This is the Procrasti8x8 Texture Pack! This is in **early development**, 
 Intrested in helping? See [this awesome page](https://github.com/ProcrastinationNation/Procrasti8x8/blob/README.md#procrasti8x8) to know more!
 
 \- [ProcrastinationNation](https://github.com/ProcrastinationNation/), [CoolAbhi1290](http://coolabhi1290.epizy.com/), [Namakudami](https://github.com/Namakudami), [ancestrialchindinner](), [Enderot_Gaming](https://github.com/Enderot-Gaming), [filiprb]() & [letmeknow]()
-
-test change 5

@@ -7,6 +7,6 @@ Hello! This is the Procrasti8x8 Texture Pack! This is in **early development**, 
  - Contribution is granted by [@ProcrastinationNation](https://github.com/ProcrastinationNation)
    - Recomended way(s) of contact: [@Hungie#9172](https://app.discord.com) on discord
 
-Intrested in helping? Contact [@Hungie#9172](https://app.discord.com) on discord, or pull merge request and we will accpet/deny it when needed :)
+Intrested in helping? See [this awesome page](https://github.com/ProcrastinationNation/Procrasti8x8/blob/README.md#procrasti8x8) to know more!
 
-\- [ProcrastinationNation](https://github.com/ProcrastinationNation/), [CoolAbhi1290](http://coolabhi1290.epizy.com/), [Namakudami](https://github.com/Namakudami), [ancestrialchindinner](), [Enderot_Gaming](https://github.com/Enderot-Gaming), [filiprb]() & [letmeknow]()
+\- [ProcrastinationNation](https://github.com/ProcrastinationNation/), [CoolAbhi1290](http://coolabhi1290.epizy.com/), [Namakudami](https://github.com/Namakudami), [ancestrialchindinner](), [Enderot_Gaming](https://github.com/Enderot-Gaming), [filiprb](https://github.com/filipbudd) & [letmeknow](https://github.com/letmeknow)

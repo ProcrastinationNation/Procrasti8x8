@@ -47,4 +47,4 @@ The fun part!
 
 [Click here to return home](https://github.com/ProcrastinationNation/Procrasti8x8)
 
-Written with love and MarkDown(r) by [CoolAbhi1290]([http://coolabhi1290.epizy.com/](http://coolabhi1290.epizy.com/))
+Written with love and MarkDown(r) by [CoolAbhi1290](http://coolabhi1290.epizy.com/)

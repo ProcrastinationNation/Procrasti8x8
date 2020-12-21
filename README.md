@@ -1,5 +1,6 @@
 # Procrasti8x8
-Hello! This is the Procrasti8x8 Texture Pack! This is in **early development**, so not all versions of Minecarft are supported. You can check them out, but on a **few conditions**.
+Procrasti8x8 is an open source 8x8 vanilla resource pack for the Java Edition of Minecraft. Create forks and requests pulls. You are free to download this resourcepack, use it, and iterate it for personal use. You may **not redistribute* the files. You may, however, contribute by untilizing forks.
+Do note however, this pack has been discontinued! It has been made public to let you, the audience iterate it.
 
  - This Pack can be used for personal use
    - You have full control on what you can do with this pack **only when used personally**

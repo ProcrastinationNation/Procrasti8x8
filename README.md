@@ -6,7 +6,7 @@ Do note however, this pack has been discontinued! It has been made public to let
    - You have full control on what you can do with this pack **only when used personally**
  - Distribution right now is not allowed
  - Contribution is granted by [@ProcrastinationNation](https://github.com/ProcrastinationNation)
-   - Recomended way(s) of contact: [@Hungie#9172](https://app.discord.com) on discord
+   - Recomended way(s) of contact: [@Hungie#9172](https://discord.com/app) on discord
 
 Intrested in helping? See [this awesome page](https://github.com/ProcrastinationNation/Procrasti8x8/blob/README.md#procrasti8x8) to know more!
 

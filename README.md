@@ -10,4 +10,4 @@ Do note however, this pack has been discontinued! It has been made public to let
 
 Intrested in helping? See [this awesome page](https://github.com/ProcrastinationNation/Procrasti8x8/blob/README.md#procrasti8x8) to know more!
 
-\- [ProcrastinationNation](https://github.com/ProcrastinationNation/), [CoolAbhi1290](http://coolabhi1290.epizy.com/), [Namakudami](https://github.com/Namakudami), [ancestrialchindinner](), [Enderot_Gaming](https://github.com/Enderot-Gaming), [filiprb](https://github.com/filipbudd) & [letmeknow](https://github.com/letmeknow)
+\- [ProcrastinationNation](https://github.com/ProcrastinationNation/), [TrèsAbhi](http://tresabhi.github.io/), [Namakudami](https://github.com/Namakudami), [ancestrialchindinner](), [Enderot_Gaming](https://github.com/Enderot-Gaming), [filiprb](https://github.com/filipbudd) & [letmeknow](https://github.com/letmeknow)
